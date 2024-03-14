@@ -1,4 +1,5 @@
 what we are doing here is? we learning how to use Git and Github
 now we know a little bit about Git
 we are moving forward 
-day 2.2
+day 2
+
